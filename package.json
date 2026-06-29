@@ -10,6 +10,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
+    "@astrojs/netlify": "^7.0.13",
     "@astrojs/react": "^6.0.0",
     "@fontsource/inter": "^5.2.8",
     "@keystatic/astro": "^5.1.0",
