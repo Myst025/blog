@@ -6,7 +6,7 @@ export default config({
     kind: 'cloud',
   },
   cloud: {
-    project: 'myst-25/blog-admin',
+    project: 'blog-admin/blog',
   },
   collections: {
     blog: collection({
