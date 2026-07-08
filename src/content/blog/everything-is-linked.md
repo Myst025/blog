@@ -18,7 +18,7 @@ For years I thought life came in separate rooms: work in this box, love in that 
 
 ---
 
-## 🔗 Key Insights
+## Key Insights
 
 ### One Small Pull Changes Everything
 
@@ -42,7 +42,7 @@ For years I thought life came in separate rooms: work in this box, love in that 
 
 ---
 
-## 🕸️ How the Web Works
+## How the Web Works
 
 1. **A thread is pulled** — You make a choice, speak a word, or avoid something that matters.
 1. **Vibrations travel** — The effect moves through your self-image, your energy, and your relationships, often silently.
@@ -52,7 +52,7 @@ For years I thought life came in separate rooms: work in this box, love in that 
 
 ---
 
-## 📱 Why Realizing It Late Is Still a Gift
+## Why Realizing It Late Is Still a Gift
 
 - **You stop trying to cheat the web** — There is no shortcut that only affects one area. You finally respect the rules.
 - **No effort is wasted** — Because everything is linked, every small genuine act ripples. A moment of courage repairs things you can't even see yet.
@@ -61,7 +61,7 @@ For years I thought life came in separate rooms: work in this box, love in that 
 
 ---
 
-## 🌐 Why This Matters
+## Why This Matters
 
 - **You are not a collection of separate problems** — You are a single, evolving pattern.
 - **Healing starts anywhere** — Drink water. Apologize. Sit still for ten minutes. Pull one thread with love, and the whole structure shifts.
